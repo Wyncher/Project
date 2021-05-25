@@ -1,0 +1,1 @@
+Enter in turn: Weight (fractional number), Ripeness (whole number), Color (line description), Mutation (fractional number), Sweetness (fractional number)

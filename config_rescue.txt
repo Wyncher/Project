@@ -1,0 +1,2 @@
+
+screensaver_r:locale_rescue\screensaver_r.txt

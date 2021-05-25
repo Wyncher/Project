@@ -1,0 +1,15 @@
+----------------------------------------------------------------------------------------------------------------------
+( 1 )Choose seeds to plant or hire a farmer
+
+( 2 )See all the vegetables that are growing right now
+
+( 3 )To uproot a vegetable
+
+( 4 )View the list of farmers
+
+( 5 )Remove Farmer
+
+( L )Change language
+
+(ESC)Сome back
+----------------------------------------------------------------------------------------------------------------------

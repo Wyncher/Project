@@ -1,0 +1,7 @@
+Weight:
+Sang:
+Color:
+Mutation:
+The size:
+Sweetness:
+Total tomatoberrys:

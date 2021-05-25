@@ -1,0 +1,1 @@
+Enter in turn: Weight (fractional number), Ripeness (whole number),Type, Color (line description), Size (fractional number)

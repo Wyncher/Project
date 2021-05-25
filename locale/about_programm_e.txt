@@ -1,0 +1,13 @@
+Program description
+General information:
+The vegetables.exe program is designed to simulate a Vegetable garden.
+Functional purpose:
+The program is intended for use in higher educational institutions in order to demonstrate the main concepts of the object-oriented approach in software development using the C ++ language.
+Used technical means:
+To run the program, you need a personal computer with a processor frequency of at least 1.5 GHz and at least 512 MB of RAM.
+Call and download:
+The program is called and loaded by running the executable file vegetables.exe.
+Input data:
+The program uses data entered by the user from the keyboard as initial data.
+Output:
+The output data is displayed on the screen and files that are specified by the user or written in the program code.

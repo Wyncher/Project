@@ -1,0 +1,13 @@
+Good day!
+Control the means by means of certain keys near the menu.
+----------------------------------------------------------------------------------------------------------------------
+( 1 )Start work in the garden
+
+( 2 )Remember past successes
+
+( 3 )Save secceses
+
+( 4 )Information section
+
+( L )Change language
+----------------------------------------------------------------------------------------------------------------------
